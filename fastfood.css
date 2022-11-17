@@ -1,0 +1,33 @@
+.foodimg{
+    background-image: url("https://img.freepik.com/premium-photo/assorted-indian-recipes-food-various_79295-7226.jpg?w=740");
+    height: 100vh;
+    background-size: cover;
+}
+.Restuarant{
+    background-color:lightcoral;
+    height: 200px;
+    
+    padding:15px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.price{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: black;
+}
+.fooditems{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: black;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+   
+   
+   
+}
+
